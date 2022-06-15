@@ -1,0 +1,11 @@
+C:\Users\Hima\Desktop\New folder\WFA Greeting msg\WFA Greeting msg\bin\Debug\WFA Greeting msg.exe.config
+C:\Users\Hima\Desktop\New folder\WFA Greeting msg\WFA Greeting msg\bin\Debug\WFA Greeting msg.exe
+C:\Users\Hima\Desktop\New folder\WFA Greeting msg\WFA Greeting msg\bin\Debug\WFA Greeting msg.pdb
+C:\Users\Hima\Desktop\New folder\WFA Greeting msg\WFA Greeting msg\obj\Debug\WFA Greeting msg.csproj.AssemblyReference.cache
+C:\Users\Hima\Desktop\New folder\WFA Greeting msg\WFA Greeting msg\obj\Debug\WFA Greeting msg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hima\Desktop\New folder\WFA Greeting msg\WFA Greeting msg\obj\Debug\WFA_Greeting_msg.Form1.resources
+C:\Users\Hima\Desktop\New folder\WFA Greeting msg\WFA Greeting msg\obj\Debug\WFA_Greeting_msg.Properties.Resources.resources
+C:\Users\Hima\Desktop\New folder\WFA Greeting msg\WFA Greeting msg\obj\Debug\WFA Greeting msg.csproj.GenerateResource.cache
+C:\Users\Hima\Desktop\New folder\WFA Greeting msg\WFA Greeting msg\obj\Debug\WFA Greeting msg.csproj.CoreCompileInputs.cache
+C:\Users\Hima\Desktop\New folder\WFA Greeting msg\WFA Greeting msg\obj\Debug\WFA Greeting msg.exe
+C:\Users\Hima\Desktop\New folder\WFA Greeting msg\WFA Greeting msg\obj\Debug\WFA Greeting msg.pdb
